@@ -1,0 +1,11 @@
+
+jupyter     # for lecture slides
+matplotlib  # to make matlab-looking plots
+numpy       # numpy linear algebra cpu bound
+pandas      # read/write/manipulate data
+RISE        # view jupyter notebooks as powerpoint slides
+scipy       # lots of stuff
+sklearn     # some models
+tabulate    # format and print tables
+tqdm        # progress bars
+
